@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofiteWeatherAPI</string>
+    <string name="city">Город</string>
+    <string name="temperature">Температура</string>
+    <string name="direction">Направление</string>
+    <string name="speed">Скорость</string>
+    <string name="wind">Ветер</string>
+    <string name="atmospheric_pressure">Атмосферное давление</string>
+    <string name="api_key">5943f193d92075d20b5868d88d26e935</string>
+</resources>
