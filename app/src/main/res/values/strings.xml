@@ -7,4 +7,15 @@
     <string name="wind">Ветер</string>
     <string name="atmospheric_pressure">Атмосферное давление</string>
     <string name="api_key">5943f193d92075d20b5868d88d26e935</string>
+    <string name="weather">Погода</string>
+    <string name="go_to_weather">К погоде</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_city">Выберите город</string>
+    <string name="my_city">Мой город</string>
+    <string name="to_input_city">Ввести город</string>
+    <string name="input_city">Введите город</string>
+    <string name="back">Назад</string>
+    <string name="next">Далее</string>
+    <string name="exit">Выход</string>
 </resources>
